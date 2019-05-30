@@ -1,1 +1,64 @@
-theme: jekyll-theme-minimal
+# Site
+name: 'Vegan motorkleding'
+description: 'Vegan motorkleding geeft een overzicht van verschillende broeken, jassen, handschoenen, schoenen, etc. van verschillende merken die vegan friendly zijn en geen dierlijke producten gebruiken.'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: ''
+google_analytics: 'UA-4778708-10'
+lang: nl_NL
+disqus: 'vegan-motorkleding'
+email: 'daniel@spookmedia.nl'
+facebook:
+  url: 'https://www.facebook.com/veganmotorkleding'
+  page_id: 291335465104774
+mailchimp-list: 'https://gmail.us20.list-manage.com/subscribe/post?u=ea6be0e415eabad7bd5736de6&amp;id=402388d766'
+
+theme_color: '#03a87c'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+authors:
+    daniel:
+      name:           Daniel
+      #site:           https://www.spookmedia.nl
+      avatar:         assets/images/avatar-daniel.jpg
+      bio:            ""
+      email:          daniel@spookmedia.nl
+      #twitter:        https://twitter.com/delneet
+
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: daniel
+      avatar: /assets/images/avatar1.jpg
+
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

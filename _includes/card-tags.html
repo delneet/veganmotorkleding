@@ -1,0 +1,9 @@
+<div class="card mb-2rem">
+  <div class="card-body">
+    <div class="taglist">
+      {% for item in items %}
+        <a class="sscroll btn btn-light btn-sm font-weight-bold mb-1" href="#{{ item[0] | downcase }}">{{ item[0] | downcase }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
