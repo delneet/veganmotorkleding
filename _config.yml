@@ -4,7 +4,8 @@ description: 'Vegan motorkleding geeft een overzicht van verschillende broeken, 
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-google_analytics: 'UA-4778708-10'
+google_analytics:
+gtag: 'UA-4778708-10'
 lang: nl_NL
 disqus: 'vegan-motorkleding'
 email: 'daniel@spookmedia.nl'
