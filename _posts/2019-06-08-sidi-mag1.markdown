@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Sidi Mag-1"
+date: "2019-06-08 16:01:15 +0200"
+image: 'assets/images/sidi/sidi-mag1-gray-white.jpg'
+slides:
+- image: 'assets/images/sidi/sidi-mag1-gray-white.jpg'
+  alt: 'grijs wit'
+- image: 'assets/images/sidi/sidi-mag1-black.jpg'
+  alt: 'zwart'
+- image: 'assets/images/sidi/sidi-mag1-black-white.jpg'
+  alt: 'zwart wit'
+- image: 'assets/images/sidi/sidi-mag1-black-white-yellow.jpg'
+  alt: 'zwart wit geel'
+categories:
+- 'Sidi'
+- 'Laarzen'
+- 'Heren'
+tags:
+- 'sidi'
+- 'laars'
+- 'laarzen'
+- 'heren'
+- 'race'
+- 'tour'
+- 'zwart'
+- 'grijs'
+- 'wit'
+- 'geel'
+---
+De Mag-1 is de meest geavanceerde en innovatieve laars van Sidi.
+Voorzien van de laatste technologische snufjes en hoogstandjes.
+
+Met het Techno-3 sluitsysteem is het mogelijk de laars helemaal naar wens in te stellen.
+De ijzeren lusjes zijn met een magneetje op hun plek te houden.
+Daarna stel je met de draaiknop precies in hoe strak je de schoen op de neus, enkel en scheen wilt stellen.
+
+Speciale inzetstukken zorgen ervoor dat de laars niet snijdt in je kuit of in je scheen.
+
+
+### Bescherming
+
+Carbon brace systeem om het breken van de enkel tegen te gaan.
+Verborgen aan de binnenkant van de laars.
+Asymetrische (vervangbare) glijvlakken om zowel de voet als de motor te beschermen.
+Volledig CE goedgekeurd.
+
+
+### Pasvorm
+
+Volledig naar eigen wens in te stellen en strak te stellen.
+Zeer comfortabel, zelfs wanneer helemaal strak gesteld.
+Geschikt voor de smallere voet.
+
+
+### Materialen
+
+TechnoMicro buitenkant.
+PU scheenberscherming.
+TPU stelbanden.
