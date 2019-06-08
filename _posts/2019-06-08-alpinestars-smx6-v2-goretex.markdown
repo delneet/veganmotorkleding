@@ -29,9 +29,18 @@ Het onderliggende GoreTex® membraan zorgt voor een ademende 100% wind- en water
 De ergonomische voorkant is ontwikkeld voor een nog verbeterd gevoel van de controls en een comfortabele pasvorm.
 De nieuwe rubberen zool zorgt voor betere grip en betere slijtvastheid.
 
+
+### Bescherming
+
 De SMX-6 V2 is CE gecertificeerd.
 Voorzien van een TPU enkelbrace voor structurele integriteit. Beschermt tevens tegen schokken en vibraties.
 TPU scheenbescherming, kuitbescherming, hielbeschrerming, schakelvlak en teenslider.
+
+
+### Pasvorm
+
+Is net als de [SMX-6 V2](/alpinestars-smx6-v2) geschikt voor bredere voeten.
+
 
 ### Materialen
 

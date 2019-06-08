@@ -53,6 +53,7 @@ TPU scheenbescherming, kuitbescherming, hielbeschrerming, schakelvlak en teensli
 Geschikt voor de bredere voet.
 Valt qua breedte bij de tenen net iets smaller dan de [SMX Plus V2](/alpinestars-smx-plus-v2).
 
+
 ### Materialen
 
 Microfiber buitenkant.

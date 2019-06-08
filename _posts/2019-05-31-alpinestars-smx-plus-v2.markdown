@@ -46,6 +46,7 @@ Doormiddel van het ratelsysteem is de kuit naar eigen wens vast te zetten.
 
 De SMX plus V2 is voorzien van een binnenschoen die met veters strak te trekken is.
 
+
 ### Bescherming
 
 Volledig CE-gecertificeerd
@@ -53,13 +54,15 @@ Volledig CE-gecertificeerd
 
 ### Pasvorm
 
+Geschikt voor bredere voeten.
 De enkel kuit en wreef kunnen goed strak worden aangetrokken door de veter in de binnenschoen aan te trekken.
 De tenen lijken net iets meer ruimte te hebben in de breedte dan de [SMX-6 V2](/alpinestars-smx6-v2)
 
+
 ### Materialen
 
- Lichtgewicht en duurzaam microfiber.
- Vervangbare, hoge dichtheid TPU achterkant hiel-plaat schuifregelaar.
- Synthetische voorvoet voering met geavanceerd 'open cel' schuim.
- Rubberen zool.
- Het lace-lock systeem is gemaakt van een geavanceerde polymeer hars.
+Lichtgewicht en duurzaam microfiber.
+Vervangbare, hoge dichtheid TPU achterkant hiel-plaat schuifregelaar.
+Synthetische voorvoet voering met geavanceerd 'open cel' schuim.
+Rubberen zool.
+Het lace-lock systeem is gemaakt van een geavanceerde polymeer hars.
