@@ -14,6 +14,12 @@ facebook:
   page_id: 291335465104774
 mailchimp-list: 'https://gmail.us20.list-manage.com/subscribe/post?u=ea6be0e415eabad7bd5736de6&amp;id=402388d766'
 
+social:
+  links:
+  - https://www.facebook.com/veganmotorkleding
+  - https://www.instagram.com/veganmotorkleding/
+
+
 theme_color: '#03a87c'
 
 include: ["_pages"]
