@@ -51,7 +51,7 @@ TPU scheenbescherming, kuitbescherming, hielbeschrerming, schakelvlak en teensli
 ### Pasvorm
 
 Geschikt voor de bredere voet.
-Valt qua breedte bij de tenen net iets smaller dan de [SMX-6 V2](/alpinestars-smx6-v2-goretex).
+Valt qua breedte bij de tenen net iets smaller dan de [SMX Plus V2](/alpinestars-smx-plus-v2).
 
 ### Materialen
 

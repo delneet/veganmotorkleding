@@ -54,7 +54,7 @@ Volledig CE-gecertificeerd
 ### Pasvorm
 
 De enkel kuit en wreef kunnen goed strak worden aangetrokken door de veter in de binnenschoen aan te trekken.
-De tenen lijken net iets meer ruimte te hebben in de breedte dan de [SMX6 V2](/alpinestars-smx6-v2-goretex)
+De tenen lijken net iets meer ruimte te hebben in de breedte dan de [SMX-6 V2](/alpinestars-smx6-v2)
 
 ### Materialen
 
