@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alien Moto A51-RR evolution man"
+title: "Alien Moto A51-RR evolution"
 date: "2019-06-08 08:06:05 +0200"
 image: 'assets/images/alienmoto/alienmoto-1piece-front.jpg'
 slides:
@@ -28,12 +28,15 @@ categories:
 - "Alienmoto"
 - 'Pakken'
 - 'Heren'
+- 'Dames'
 tags:
 - 'featured'
 - "alienmoto"
 - '1 piece'
 - '2 piece'
 - 'heren'
+- 'dames'
+- 'lady'
 - 'pak'
 - 'pakken'
 - 'overall'
