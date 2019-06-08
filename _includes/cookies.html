@@ -1,0 +1,24 @@
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#efefef",
+      "text": "#404040"
+    },
+    "button": {
+      "background": "{{ site.theme_color }}",
+      "text": "#ffffff"
+    }
+  },
+  "content": {
+    "message": "Deze site maakt gebruik van cookies voor een optimaal resultaat.",
+    "dismiss": "ok",
+    "link": "lees meer",
+    "href": "https://www.veganmotorkleding.nl/saaie-teksten.html"
+  },
+  "position": "bottom-right"
+})});
+</script>
