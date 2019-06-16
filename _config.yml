@@ -2,7 +2,7 @@
 name: 'Vegan motorkleding'
 description: 'Op zoek naar vegan friendly motorbroeken jassen handschoenen en schoenen? Kijk hier voor kleding van verschillende merken die geen dierlijke producten gebruiken.'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favicon.png'
 baseurl: ''
 google_analytics:
 gtag: 'UA-4778708-10'
