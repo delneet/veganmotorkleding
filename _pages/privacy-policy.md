@@ -3,8 +3,18 @@ title: "Saaie teksten"
 permalink: "/saaie-teksten.html"
 ---
 
-"{{site.name}}" neemt privacy serieus. Vandaar deze saaie teksten om een en ander toe te lichten.
-Sorry! Ze zijn op dit moment nog in het Engels.
+"{{site.name}}" neemt privacy serieus. Vandaar deze teksten om een en ander toe te lichten.
+Sorry! op dit moment zijn enkele teksten nog in het Engels.
+
+
+#### Disclaimer
+
+Veganmotorkleding streeft naar een zo actueel mogelijke website. Mocht ondanks deze inspanningen de informatie van of de inhoud op deze website onvolledig en of onjuist zijn, dan kunnen wij daarvoor geen aansprakelijkheid aanvaarden.
+
+De informatie en/of producten op deze website worden aangeboden zonder enige vorm van garantie en of aanspraak op juistheid. Wij behouden ons het recht voor om deze materialen te wijzigen, te verwijderen of opnieuw te plaatsen zonder enige voorafgaande mededeling. Veganmotorkleding aanvaardt geen aansprakelijkheid voor enige informatie die op websites staat waarnaar wij via hyperlinks verwijzen.
+Veganmotorkleding aanvaardt geen aansprakelijkheid op welke wijze dan ook, voor het gebruik van de op deze site gepubliceerde informatie en alle andere inhoud.
+Er is veel tijd en aandacht gestoken in het zorgvuldig uitzoeken welke kleding vegan is.
+Veganmotorkleding geeft echter geen garantie over de juistheid of het ontbreken van de verstrekte informatie.
 
 
 #### Collection of Routine Information
